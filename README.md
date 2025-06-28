@@ -62,14 +62,14 @@ A few highlights from my front-end journey:
 
 Want to chat design, dev, or collab on a project?
 
-- 🌐 Portfolio: [Your Portfolio Site]
-- 💼 LinkedIn: [Your LinkedIn URL]
-- ✉️ Email: [your.email@example.com]
+- 🌐 Portfolio: wwww.ligangichamba.com
+- 💼 LinkedIn: www.linkedin.com/in/ligan-gichamba-6365ab32b
+- ✉️ Email: muchiriligan@gmail.com
 
 ---
 
 <p align="center">
-  Made with 💙 and coffee by <strong>[Your Name]</strong>
+  Made with 💙 and coffee by <strong>Ligan]</strong>
 </p>
 
 
