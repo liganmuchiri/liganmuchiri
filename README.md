@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hello, I'm [Your Name]</h1>
+<h1 align="center">👋 Hello, I'm  Ligan Gichamba </h1>
 <h3 align="center">ALX Pro Frontend Developer | Design-Driven Coder | Web Interface Enthusiast</h3>
 
 <p align="center">
